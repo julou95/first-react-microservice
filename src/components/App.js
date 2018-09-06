@@ -7,19 +7,8 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src="https://media.giphy.com/media/C6PKnnzJ2Ywrm/giphy.gif" className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to Jenkins X with React</h1>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" className="App-logo" alt="logo" />
         </header>
-        <p className="App-intro">
-          <img src="https://media.giphy.com/media/xThtaevzbPFR2z0yEo/giphy.gif" alt="jej" />
-          <img src="https://media.giphy.com/media/xThtaevzbPFR2z0yEo/giphy.gif" alt="jej" />
-          <img src="https://media.giphy.com/media/xThtaevzbPFR2z0yEo/giphy.gif" alt="jej" />
-          <img src="https://media.giphy.com/media/xThtaevzbPFR2z0yEo/giphy.gif" alt="jej" />
-          <img src="https://media.giphy.com/media/xThtaevzbPFR2z0yEo/giphy.gif" alt="jej" />
-          <img src="https://media.giphy.com/media/xThtaevzbPFR2z0yEo/giphy.gif" alt="jej" />
-          <img src="https://media.giphy.com/media/xThtaevzbPFR2z0yEo/giphy.gif" alt="jej" />
-          <img src="https://media.giphy.com/media/xThtaevzbPFR2z0yEo/giphy.gif" alt="jej" />
-        </p>
       </div>
     );
   }
