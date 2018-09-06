@@ -3,8 +3,8 @@
 # Declare variables to be passed into your templates.
 replicaCount: 1
 image:
-  repository: draft
-  tag: dev
+  repository: 10.63.242.78:5000/julou95/first-react-microservice
+  tag: 0.0.5
   pullPolicy: IfNotPresent
 service:
   name: first-react-microservice
