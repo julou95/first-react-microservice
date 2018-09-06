@@ -12,6 +12,14 @@ class App extends Component {
         </header>
         <p className="App-intro">
           <img src="https://media.giphy.com/media/xThtaevzbPFR2z0yEo/giphy.gif" alt="jej" />
+          <img src="https://media.giphy.com/media/xThtaevzbPFR2z0yEo/giphy.gif" alt="jej" />
+          <img src="https://media.giphy.com/media/xThtaevzbPFR2z0yEo/giphy.gif" alt="jej" />
+          <img src="https://media.giphy.com/media/xThtaevzbPFR2z0yEo/giphy.gif" alt="jej" />
+          <img src="https://media.giphy.com/media/xThtaevzbPFR2z0yEo/giphy.gif" alt="jej" />
+          <img src="https://media.giphy.com/media/xThtaevzbPFR2z0yEo/giphy.gif" alt="jej" />
+          <img src="https://media.giphy.com/media/xThtaevzbPFR2z0yEo/giphy.gif" alt="jej" />
+          <img src="https://media.giphy.com/media/xThtaevzbPFR2z0yEo/giphy.gif" alt="jej" />
+          <img src="https://media.giphy.com/media/xThtaevzbPFR2z0yEo/giphy.gif" alt="jej" />
         </p>
       </div>
     );
